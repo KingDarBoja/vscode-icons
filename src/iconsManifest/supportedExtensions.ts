@@ -7146,6 +7146,12 @@ export const extensions: IFileCollection = {
       format: FileFormat.svg,
     },
     {
+      icon: 'zensical',
+      extensions: ['zensical.toml'],
+      filename: true,
+      format: FileFormat.svg,
+    },
+    {
       icon: 'zig',
       extensions: [],
       languages: [languages.zig],
